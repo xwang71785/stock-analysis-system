@@ -1,0 +1,191 @@
+{
+  "stocks": [
+    {
+      "name": "浪潮信息",
+      "code": "000977",
+      "sector": "服务器",
+      "core_positioning": "AI服务器龙头，英伟达核心伙伴，算力硬件底座"
+    },
+    {
+      "name": "鸿博股份",
+      "code": "002229",
+      "sector": "数据中心",
+      "core_positioning": "MiniMax独家算力，美国智算中心，算租比超70%"
+    },
+    {
+      "name": "首都在线",
+      "code": "300846",
+      "sector": "数据中心",
+      "core_positioning": "智谱AI核心算力，全球1500+节点，日处理Token超200亿"
+    },
+    {
+      "name": "润泽科技",
+      "code": "300442",
+      "sector": "数据中心",
+      "core_positioning": "字节核心IDC，6大智算中心，支撑万亿级Token"
+    },
+    {
+      "name": "中际旭创",
+      "code": "300308",
+      "sector": "光模块",
+      "core_positioning": "高速光模块龙头，AI传输核心"
+    },
+    {
+      "name": "英维克",
+      "code": "002837",
+      "sector": "液冷散热",
+      "core_positioning": "液冷散热"
+    },
+    {
+      "name": "中芯国际",
+      "code": "688981",
+      "sector": "芯片代工",
+      "core_positioning": "芯片代工"
+    },
+    {
+      "name": "天孚通信",
+      "code": "300394",
+      "sector": "CPO光引擎",
+      "core_positioning": "光引擎龙头，CPO核心供应商"
+    },
+    {
+      "name": "华工科技",
+      "code": "000988",
+      "sector": "光模块",
+      "core_positioning": "光模块，激光设备"
+    },
+    {
+      "name": "寒武纪",
+      "code": "688256",
+      "sector": "AI芯片",
+      "core_positioning": "国产AI芯片，推理效率领先"
+    },
+    {
+      "name": "紫光股份",
+      "code": "000938",
+      "sector": "新华三",
+      "core_positioning": "服务器/交换机，新华三母公司"
+    },
+    {
+      "name": "中科曙光",
+      "code": "603019",
+      "sector": "服务器",
+      "core_positioning": "国产服务器龙头，超算领域"
+    },
+    {
+      "name": "海光信息",
+      "code": "688041",
+      "sector": "DCU",
+      "core_positioning": "国产DCU，训推全适配"
+    },
+    {
+      "name": "新易盛",
+      "code": "300502",
+      "sector": "光模块",
+      "core_positioning": "高速光模块，800G产品领先"
+    },
+    {
+      "name": "工业富联",
+      "code": "601138",
+      "sector": "制造",
+      "core_positioning": "AI服务器代工龙头"
+    },
+    {
+      "name": "北方华创",
+      "code": "002371",
+      "sector": "设备",
+      "core_positioning": "半导体设备龙头"
+    },
+    {
+      "name": "澜起科技",
+      "code": "688008",
+      "sector": "内存芯片",
+      "core_positioning": "内存接口芯片全球龙头"
+    },
+    {
+      "name": "绿的谐波",
+      "code": "688017",
+      "sector": "机器人核心部件",
+      "core_positioning": "谐波减速器龙头，机器人核心部件"
+    },
+    {
+      "name": "汇川技术",
+      "code": "300124",
+      "sector": "工控自动化/机器人",
+      "core_positioning": "工控自动化龙头，机器人核心部件"
+    },
+    {
+      "name": "金盘科技",
+      "code": "688676",
+      "sector": "变压器/SST",
+      "core_positioning": "10kV/2.4MW固态变压器，英伟达AI工厂生态伙伴"
+    },
+    {
+      "name": "中国西电",
+      "code": "601179",
+      "sector": "变压器/SST",
+      "core_positioning": "2.4MW固态变压器2023年9月贵安数据中心正式投运"
+    },
+    {
+      "name": "宏微科技",
+      "code": "688711",
+      "sector": "功率半导体/SST",
+      "core_positioning": "1700V功率模块是SST核心部件，研发GaN器件"
+    },
+    {
+      "name": "伊戈尔",
+      "code": "002922",
+      "sector": "变压器",
+      "core_positioning": "变压器"
+    },
+    {
+      "name": "特变电工",
+      "code": "600089",
+      "sector": "变压器",
+      "core_positioning": "变压器"
+    },
+    {
+      "name": "立讯精密",
+      "code": "002475",
+      "sector": "精密制造",
+      "core_positioning": "精密制造龙头，苹果供应链"
+    },
+    {
+      "name": "汇川技术",
+      "code": "300124",
+      "sector": "工控自动化",
+      "core_positioning": "工控自动化龙头"
+    },
+    {
+      "name": "思源电气",
+      "code": "002028",
+      "sector": "电力设备",
+      "core_positioning": "电力设备"
+    },
+    {
+      "name": "恒瑞医药",
+      "code": "600276",
+      "sector": "医药",
+      "core_positioning": "创新药龙头"
+    },
+    {
+      "name": "中国平安",
+      "code": "601318",
+      "sector": "保险",
+      "core_positioning": "保险龙头"
+    },
+    {
+      "name": "紫金矿业",
+      "code": "601899",
+      "sector": "矿业",
+      "core_positioning": "矿业龙头，金铜锌"
+    },
+    {
+      "name": "长江电力",
+      "code": "600900",
+      "sector": "电力",
+      "core_positioning": "水电龙头"
+    }
+  ],
+  "last_updated": "2026-04-13"
+}

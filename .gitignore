@@ -1,0 +1,9 @@
+__pycache__/
+.claude/
+app/
+cache/
+reports/
+tests/
+web/
+
+test_*.*
